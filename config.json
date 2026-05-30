@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cachedave",
+        "uuid": 12017670,
+        "checksum": "b5hnc9"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "production"
+    }
+}
